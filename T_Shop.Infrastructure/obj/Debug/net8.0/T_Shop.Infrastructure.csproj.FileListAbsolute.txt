@@ -1,0 +1,17 @@
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Infrastructure.deps.json
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Infrastructure.runtimeconfig.json
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Infrastructure.dll
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Infrastructure.pdb
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Domain.dll
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\bin\Debug\net8.0\T_Shop.Domain.pdb
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.AssemblyInfo.cs
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.csproj.CopyComplete
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.dll
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\refint\T_Shop.Infrastructure.dll
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.pdb
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\T_Shop.Infrastructure.genruntimeconfig.cache
+D:\C#\Projects\T Shop\T_Shop.Infrastructure\obj\Debug\net8.0\ref\T_Shop.Infrastructure.dll

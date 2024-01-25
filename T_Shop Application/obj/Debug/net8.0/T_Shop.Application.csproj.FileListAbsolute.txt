@@ -1,0 +1,11 @@
+D:\C#\Projects\T Shop\T_Shop Application\bin\Debug\net8.0\T_Shop.Application.deps.json
+D:\C#\Projects\T Shop\T_Shop Application\bin\Debug\net8.0\T_Shop.Application.dll
+D:\C#\Projects\T Shop\T_Shop Application\bin\Debug\net8.0\T_Shop.Application.pdb
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.AssemblyInfoInputs.cache
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.AssemblyInfo.cs
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.csproj.CoreCompileInputs.cache
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.dll
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\refint\T_Shop.Application.dll
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\T_Shop.Application.pdb
+D:\C#\Projects\T Shop\T_Shop Application\obj\Debug\net8.0\ref\T_Shop.Application.dll
